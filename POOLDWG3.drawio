@@ -141,12 +141,12 @@
         <mxCell id="sH69yQ1ZhXcAEsHfrU8D-24" value="&lt;pre&gt;Chl.&lt;/pre&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="630" y="740" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sH69yQ1ZhXcAEsHfrU8D-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="sH69yQ1ZhXcAEsHfrU8D-24" edge="1">
+        <mxCell id="sH69yQ1ZhXcAEsHfrU8D-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="sH69yQ1ZhXcAEsHfrU8D-24" edge="1" target="vKAQ_r-t-Htgs6Gfas-m-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="790" as="sourcePoint" />
             <mxPoint x="600" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="600" y="750" />
+              <mxPoint x="590" y="765" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -228,7 +228,7 @@
         <mxCell id="vKAQ_r-t-Htgs6Gfas-m-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.287;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vKAQ_r-t-Htgs6Gfas-m-9" target="vKAQ_r-t-Htgs6Gfas-m-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-11" value="&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 10px; line-height: 50%;&quot;&gt;** Trench is to be below frostline, with a base of permeable&lt;/span&gt;&lt;/pre&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 10px; line-height: 50%;&quot;&gt; fill then topped with sand.&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-11" value="&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 10px; line-height: 50%;&quot;&gt;** Trenches are to be below frostline, with a base of permeable&lt;/span&gt;&lt;/pre&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 10px; line-height: 50%;&quot;&gt; fill then topped with sand.&lt;br&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="682.5" width="350" height="75" as="geometry" />
         </mxCell>
         <mxCell id="vKAQ_r-t-Htgs6Gfas-m-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;fillStyle=cross-hatch;" parent="1" vertex="1">
@@ -259,11 +259,20 @@
         <mxCell id="nuoCHBoQebbKfIUDkXKh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.049;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="nuoCHBoQebbKfIUDkXKh-3" target="nuoCHBoQebbKfIUDkXKh-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XXQyQMuOhZwSfM4wRpbt-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="XXQyQMuOhZwSfM4wRpbt-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="170" y="420" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="XXQyQMuOhZwSfM4wRpbt-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-181;" vertex="1" parent="1">
+        <mxCell id="XXQyQMuOhZwSfM4wRpbt-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-181;" parent="1" vertex="1">
           <mxGeometry x="265" y="120" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EJqP4LBOYhbU62YGiwkV-1" value="&#39;12" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;" vertex="1" parent="1">
+          <mxGeometry x="20" y="117.5" width="40" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="EJqP4LBOYhbU62YGiwkV-2" value="&#39;16" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="20" width="640" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EJqP4LBOYhbU62YGiwkV-3" value="36&quot; O.C." style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-15;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="625" y="230" width="135" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
