@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="q6fW4n7F2eLG4jjfFjZH">
-    <mxGraphModel dx="396" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="rTbuxUGNBViJg6jZ7DP--15" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);dashed=1;dashPattern=1 1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="140" as="sourcePoint" />
+            <mxPoint x="180" y="139" as="sourcePoint" />
             <mxPoint x="264" y="133" as="targetPoint" />
             <Array as="points">
               <mxPoint x="180" y="139" />
@@ -219,7 +219,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rTbuxUGNBViJg6jZ7DP--24" value="* VERTICAL REBAR ON ALL FOUR ELEVATIONS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rTbuxUGNBViJg6jZ7DP--24" value="* VERTICAL REBAR ON ALL FOUR ELEVATIONS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="260" y="760" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rTbuxUGNBViJg6jZ7DP--25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);endFill=1;dashed=1;dashPattern=1 1;strokeWidth=2;" edge="1" parent="1">
@@ -299,6 +299,12 @@
             <mxPoint x="780" y="172" as="sourcePoint" />
             <mxPoint x="809" y="172" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rTbuxUGNBViJg6jZ7DP--38" value="&lt;u&gt;&lt;font face=&quot;Lucida Console&quot;&gt;STRUCTURAL - S3.05&lt;/font&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="730" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rTbuxUGNBViJg6jZ7DP--39" value="MAIN SLAB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="470" y="273" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
