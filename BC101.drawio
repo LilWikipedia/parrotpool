@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="yAkueWH8tclE_65RSBvn">
-    <mxGraphModel dx="1187" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2938" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
         <mxCell id="dpI8m116e4qu7KSGH_1Q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vKAQ_r-t-Htgs6Gfas-m-16" target="vKAQ_r-t-Htgs6Gfas-m-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-16" value="&lt;font face=&quot;Lucida Console&quot;&gt;Perforated 4&quot; PVC Drain&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;* &quot;FRENCH DRAIN&quot;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-16" value="&lt;font face=&quot;Lucida Console&quot;&gt;Perforated 4&quot; PVC Drain&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;* &quot;FRENCH DRAIN&quot; for ground water&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="450" width="265" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vKAQ_r-t-Htgs6Gfas-m-18" value="&lt;pre&gt;* 4&quot; Perforated PVC Drain to run under entire main slab for groundwater control&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
@@ -103,7 +103,7 @@
         <mxCell id="vKAQ_r-t-Htgs6Gfas-m-41" value="&lt;pre&gt;* Surround Drain with Permeable Fill for hydrostatic relief&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="630" width="410" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-42" value="&lt;pre&gt;* Compacted Fill on top of Drain and under slab&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-42" value="&lt;pre&gt;&lt;br&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="660" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dpI8m116e4qu7KSGH_1Q-1" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(11, 255, 128)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Compacted Fill&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A0522D,#7F00FF);fontColor=#ffffff;strokeColor=#6D1F00;sketch=1;curveFitting=1;jiggle=2;fillStyle=zigzag-line;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
@@ -113,7 +113,7 @@
           <mxGeometry x="750" y="300" width="60" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dpI8m116e4qu7KSGH_1Q-5" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 19px; color: light-dark(rgb(0, 0, 0), rgb(11, 255, 128)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Compacted Fill&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#A0522D,#7F00FF);fontColor=#ffffff;strokeColor=#6D1F00;sketch=1;curveFitting=1;jiggle=2;fillStyle=zigzag-line;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="810" y="300" width="170" height="130" as="geometry" />
+          <mxGeometry x="810" y="300" width="170" height="140" as="geometry" />
         </mxCell>
         <mxCell id="dpI8m116e4qu7KSGH_1Q-6" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" parent="1" vertex="1">
           <mxGeometry x="490" y="210" width="75" height="30" as="geometry" />
@@ -142,12 +142,6 @@
         <mxCell id="dpI8m116e4qu7KSGH_1Q-18" value="&lt;pre&gt;&lt;b&gt;6&quot;&lt;/b&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="262.5" width="25" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="dpI8m116e4qu7KSGH_1Q-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="990" y="480" as="sourcePoint" />
-            <mxPoint x="990" y="20" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="v2DrINj_TWOVVmX-mvSW-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="v2DrINj_TWOVVmX-mvSW-1" target="dpI8m116e4qu7KSGH_1Q-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -157,21 +151,27 @@
         <mxCell id="v2DrINj_TWOVVmX-mvSW-3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="405" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H2jwCgQD6whV3oYN8TZj-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H2jwCgQD6whV3oYN8TZj-2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="770" y="320" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H2jwCgQD6whV3oYN8TZj-3" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 8px; line-height: 80%;&quot;&gt;Permeable&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 8px; line-height: 80%;&quot;&gt;Fill&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;sketch=1;curveFitting=1;jiggle=2;spacingTop=-23;rotation=90;" vertex="1" parent="1">
+        <mxCell id="H2jwCgQD6whV3oYN8TZj-3" value="&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 8px; line-height: 80%;&quot;&gt;Permeable&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 8px; line-height: 80%;&quot;&gt;Fill&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;sketch=1;curveFitting=1;jiggle=2;spacingTop=-23;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="220" y="14.38" width="50" height="360.63" as="geometry" />
         </mxCell>
-        <mxCell id="H2jwCgQD6whV3oYN8TZj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2jwCgQD6whV3oYN8TZj-7" target="H2jwCgQD6whV3oYN8TZj-2">
+        <mxCell id="H2jwCgQD6whV3oYN8TZj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H2jwCgQD6whV3oYN8TZj-7" target="H2jwCgQD6whV3oYN8TZj-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2jwCgQD6whV3oYN8TZj-7" value="&lt;font face=&quot;Lucida Console&quot;&gt;Main Drain&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="520" width="170" height="20" as="geometry" />
+        <mxCell id="H2jwCgQD6whV3oYN8TZj-7" value="&lt;font face=&quot;Lucida Console&quot;&gt;Main Drain for filtration system&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="510" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6pgbjODfxcy1njQBLppu-1" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="210" as="sourcePoint" />
+            <mxPoint x="480" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
