@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="28.0.6">
   <diagram name="Page-1" id="q6fW4n7F2eLG4jjfFjZH">
-    <mxGraphModel dx="2633" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2938" dy="1116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,20 +40,20 @@
         <mxCell id="w-R1Q5mpOw3tjuo67Pxt-9" value="&lt;pre&gt;* All slabs to use #4 Rebar&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="610" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="w-R1Q5mpOw3tjuo67Pxt-10" value="&lt;pre&gt;* All steel shall have a minimum 6&quot; clearance from surrounding earth and forms before concrete pour&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="80" y="630" width="635" height="50" as="geometry" />
+        <mxCell id="w-R1Q5mpOw3tjuo67Pxt-10" value="&lt;pre&gt;* Seperate plumbing stubs 6&quot; O.C.&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="30" y="630" width="305" height="50" as="geometry" />
         </mxCell>
         <mxCell id="w-R1Q5mpOw3tjuo67Pxt-13" value="" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="1070" height="520" as="geometry" />
         </mxCell>
-        <mxCell id="w-R1Q5mpOw3tjuo67Pxt-14" value="&lt;font face=&quot;Lucida Console&quot;&gt;SECONDARY SLAB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="450" y="30" width="190" height="30" as="geometry" />
+        <mxCell id="w-R1Q5mpOw3tjuo67Pxt-14" value="&lt;font face=&quot;Lucida Console&quot;&gt;SECONDARY SLAB (Filtration Equipment)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="416.25" y="30" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w-R1Q5mpOw3tjuo67Pxt-15" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="150" width="410" height="210" as="geometry" />
         </mxCell>
         <mxCell id="w-R1Q5mpOw3tjuo67Pxt-17" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 19px;&quot;&gt;&#39;3&lt;/font&gt;" style="shape=dimension;direction=north;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;labelBackgroundColor=none;horizontal=0;spacingBottom=3;" parent="1" vertex="1">
-          <mxGeometry x="740" y="150" width="70" height="210" as="geometry" />
+          <mxGeometry x="760" y="150" width="50" height="210" as="geometry" />
         </mxCell>
         <mxCell id="w-R1Q5mpOw3tjuo67Pxt-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="g86L-Ri1vE0_HwikzMnk-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -198,7 +198,7 @@
           <mxGeometry x="557.5" y="360" width="110" height="170" as="geometry" />
         </mxCell>
         <mxCell id="w-R1Q5mpOw3tjuo67Pxt-16" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 17px;&quot;&gt;&#39;5&lt;/font&gt;" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="320" y="370" width="410" height="40" as="geometry" />
+          <mxGeometry x="320" y="390" width="410" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g86L-Ri1vE0_HwikzMnk-28" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillStyle=solid;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=light-dark(#FFFFFF,#1F01FF);" parent="1" vertex="1">
           <mxGeometry x="572.5" y="360" width="17.5" height="170" as="geometry" />
