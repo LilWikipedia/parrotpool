@@ -211,7 +211,7 @@
         <mxCell id="LL6v63Wx8klDNPUl_Ktk-98" value="&lt;pre&gt;&lt;u&gt;Cross Section Overview&lt;/u&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="768.75" y="10" width="192.5" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="LL6v63Wx8klDNPUl_Ktk-104" value="12&quot;" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="LL6v63Wx8klDNPUl_Ktk-104" value="16&quot;" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="715" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GztURZSVZ-j2a2Ba5-2v-5" value="&lt;pre&gt;&lt;pre&gt;1 — &lt;b&gt;&lt;u&gt;Water volume&lt;/u&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;    Volume (cu ft) = length × width × depth = 16 × 12 × 4.&lt;/pre&gt;&lt;pre&gt;    Total gallons = 5,745.03936&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
@@ -332,6 +332,9 @@
         </mxCell>
         <mxCell id="SWoercRZWXNLh3VuVA2J-22" value="&lt;pre&gt;&lt;pre&gt;&lt;b&gt;3 — &lt;u&gt;Slab Grid&lt;/u&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;    Slab reinforcement: #4 bars @ 8&quot; o.c. both directions (placed mid-depth).&lt;br&gt;&lt;br&gt;    Number of bars/ft long-direction (parallel to long side) = 208 ft.&lt;br&gt;&lt;br&gt;    Number of bars/ft short-direction = 204 ft.&lt;br&gt;&lt;br&gt;    Total linear feet of slab #4 = 208 + 204 = 412 ft.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="402.5" width="520" height="157.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SWoercRZWXNLh3VuVA2J-23" value="&lt;pre&gt;&lt;pre&gt;&lt;b&gt;4 — &lt;u&gt;Summary&lt;/u&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;    Footing: 2 #4 continuous (perimeter) — total ≈ 112 ft.&lt;br&gt;&lt;br&gt;    Bond beam: 1 #4 horizontal continuous — 56 ft (specify if 2 required).&lt;br&gt;&lt;br&gt;    Vertical wall: #4 @ 24&quot; o.c. — 28 bars, total ≈ 149.33 ft.&lt;br&gt;&lt;br&gt;    Slab: #4 @ 12&quot; o.c. both directions — total ≈ 412 ft.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="517" width="475" height="211.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
