@@ -45,7 +45,7 @@
         <mxCell id="fZEjTNOgHe3qDdnWh54v-17" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="fZEjTNOgHe3qDdnWh54v-8" vertex="1">
           <mxGeometry y="28" width="210" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="fZEjTNOgHe3qDdnWh54v-18" value="S - &lt;span style=&quot;white-space: normal;&quot;&gt;Structural - 3.01&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="fZEjTNOgHe3qDdnWh54v-17" vertex="1">
+        <mxCell id="fZEjTNOgHe3qDdnWh54v-18" value="S - &lt;span style=&quot;white-space: normal;&quot;&gt;Structural / Overview - 3.01&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=12;align=left;spacingLeft=5;" parent="fZEjTNOgHe3qDdnWh54v-17" vertex="1">
           <mxGeometry width="210" height="28" as="geometry">
             <mxRectangle width="210" height="28" as="alternateBounds" />
           </mxGeometry>
