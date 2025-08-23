@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="Page-1" id="q6fW4n7F2eLG4jjfFjZH">
-    <mxGraphModel dx="1173" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="w-R1Q5mpOw3tjuo67Pxt-3" value="&lt;pre&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 17px; line-height: 30%;&quot;&gt;&lt;u&gt;SCALE: 1/2&lt;/u&gt; &lt;/font&gt;&lt;/pre&gt;&lt;pre&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;½&quot; = 1&#39;-0&quot;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="876.25" y="172.5" width="187.5" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="_rBrVEhSuAwYxL-hOIO7-24" value="#4 1/2&quot; Reinforcement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=default;fontFamily=Lucida Console;strokeColor=light-dark(#000000,#1F1F1F);fontSize=21;" parent="1" vertex="1">
+        <mxCell id="_rBrVEhSuAwYxL-hOIO7-24" value="#4 1/2&quot; Reinforcement" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontColor=default;fontFamily=Lucida Console;strokeColor=none;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="920" y="305" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
