@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="Page-1" id="yAkueWH8tclE_65RSBvn">
-    <mxGraphModel dx="1404" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,7 +252,7 @@
         <mxCell id="SxWPC5sqNIyjZqjZQVFE-3" value="&lt;div style=&quot;line-height: 40%;&quot;&gt;&lt;pre&gt;CMU Bond Beam&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="940" y="82.5" width="128.75" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="SWoercRZWXNLh3VuVA2J-1" value="&lt;pre&gt;&lt;u&gt;Overview&lt;/u&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=4;" parent="1" vertex="1">
+        <mxCell id="SWoercRZWXNLh3VuVA2J-1" value="&lt;pre&gt;&lt;u&gt;Site Overview&lt;/u&gt;&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=4;" parent="1" vertex="1">
           <mxGeometry x="658.75" y="580" width="192.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="SWoercRZWXNLh3VuVA2J-2" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;gradientDirection=east;" parent="1" vertex="1">
@@ -330,13 +330,13 @@
         <mxCell id="SWoercRZWXNLh3VuVA2J-22" value="&lt;pre&gt;&lt;pre&gt;&lt;b&gt;3 — &lt;u&gt;Slab Grid&lt;/u&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;    Slab reinforcement: #4 bars @ 8&quot; o.c. both directions (placed mid-depth).&lt;br&gt;&lt;br&gt;    Number of bars/ft long-direction (parallel to long side) = 208 ft.&lt;br&gt;&lt;br&gt;    Number of bars/ft short-direction = 204 ft.&lt;br&gt;&lt;br&gt;    Total linear feet of slab #4 = 208 + 204 = 412 ft.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="496" width="520" height="157.5" as="geometry" />
         </mxCell>
-        <mxCell id="SWoercRZWXNLh3VuVA2J-23" value="&lt;pre&gt;&lt;pre&gt;&lt;b&gt;4 — &lt;u&gt;Summary&lt;/u&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;    Footing: 2 #4 continuous (perimeter) — total ≈ 112 ft.&lt;br&gt;&lt;br&gt;    Bond beam: 1 #4 horizontal continuous — 56 ft (specify if 2 required).&lt;br&gt;&lt;br&gt;    Vertical wall: #4 @ 24&quot; o.c. — 28 bars, total ≈ 149.33 ft.&lt;br&gt;&lt;br&gt;    Slab: #4 @ 12&quot; o.c. both directions — total ≈ 412 ft.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="SWoercRZWXNLh3VuVA2J-23" value="&lt;pre&gt;&lt;pre&gt;&lt;b&gt;4 — &lt;u&gt;Summary&lt;/u&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;    Footing: 2 #4 continuous (perimeter) — total ≈ 112 ft.&lt;br&gt;&lt;br&gt;    Bond beam: 1 #4 horizontal continuous — 56 ft.&lt;br&gt;&lt;br&gt;    Vertical wall: #4 @ 24&quot; o.c. — 28 bars, total ≈ 149.33 ft.&lt;br&gt;&lt;br&gt;    Slab: #4 @ 12&quot; o.c. both directions — total ≈ 412 ft.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;pre&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/pre&gt;&lt;/pre&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="625" width="475" height="211.5" as="geometry" />
         </mxCell>
         <mxCell id="SWoercRZWXNLh3VuVA2J-24" value="&lt;pre&gt;&lt;b style=&quot;&quot;&gt;&lt;u style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Lucida Console&quot;&gt;** NOT TO SCALE **&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="665" y="750.5" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ETIpNOoOzcOtC1cUT6LF-1" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;Structural Overview&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="ETIpNOoOzcOtC1cUT6LF-1" value="&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;Structural Overview&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="192.5" y="22.5" width="210" height="32.5" as="geometry" />
         </mxCell>
       </root>
