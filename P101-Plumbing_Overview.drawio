@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.0.9">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36 Edg/139.0.0.0" version="28.1.1">
   <diagram name="Page-1" id="yAkueWH8tclE_65RSBvn">
-    <mxGraphModel dx="1404" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nuoCHBoQebbKfIUDkXKh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;sketch=1;curveFitting=1;jiggle=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
+        <mxCell id="nuoCHBoQebbKfIUDkXKh-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="160" y="460" width="600" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nuoCHBoQebbKfIUDkXKh-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-180;sketch=1;curveFitting=1;jiggle=2;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
           <mxGeometry x="220" y="50" width="600" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="sH69yQ1ZhXcAEsHfrU8D-3" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="sH69yQ1ZhXcAEsHfrU8D-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="640" width="290" height="160" as="geometry" />
         </mxCell>
         <mxCell id="uHRIR_JINjC9fajswvWd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="uHRIR_JINjC9fajswvWd-7" target="sH69yQ1ZhXcAEsHfrU8D-24" edge="1">
@@ -25,10 +25,10 @@
         <mxCell id="uHRIR_JINjC9fajswvWd-7" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uHRIR_JINjC9fajswvWd-5" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="uHRIR_JINjC9fajswvWd-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="560" width="490" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="sH69yQ1ZhXcAEsHfrU8D-1" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
+        <mxCell id="sH69yQ1ZhXcAEsHfrU8D-1" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="120" width="640" height="340" as="geometry" />
         </mxCell>
         <mxCell id="sH69yQ1ZhXcAEsHfrU8D-4" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rotation=-180;" parent="1" vertex="1">
@@ -163,7 +163,7 @@
           <mxGeometry x="85" y="570" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="uHRIR_JINjC9fajswvWd-6" value="&lt;pre&gt;MAIN SLAB&lt;/pre&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="395" y="155" width="90" height="45" as="geometry" />
+          <mxGeometry x="415" y="185" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="uHRIR_JINjC9fajswvWd-10" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -234,7 +234,7 @@
         <mxCell id="vKAQ_r-t-Htgs6Gfas-m-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vKAQ_r-t-Htgs6Gfas-m-13" target="vKAQ_r-t-Htgs6Gfas-m-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-13" value="MAIN DRAIN &#xa;SLEEVE ***" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=default;align=center;verticalAlign=middle;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="vKAQ_r-t-Htgs6Gfas-m-13" value="MAIN DRAIN &#xa;SLEEVE ***" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="840" y="300" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="vKAQ_r-t-Htgs6Gfas-m-15" value="&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 10px; line-height: 50%;&quot;&gt;*** Portion of Main Drain line under slab to be sleeved inside&lt;/span&gt;&lt;/pre&gt;&lt;pre&gt;&lt;span style=&quot;font-size: 10px; line-height: 50%;&quot;&gt;of 4&quot; Perforated PVC for hydrostatic relief and water table changes&lt;/span&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
